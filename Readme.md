@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/ManualDataUpdates/MainPage.xaml) (VB: [MainPage.xaml](./VB/ManualDataUpdates/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ManualDataUpdates/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ManualDataUpdates/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ManualDataUpdates/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ManualDataUpdates/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to make many updates per second
 
